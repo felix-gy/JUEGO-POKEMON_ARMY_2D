@@ -6,7 +6,7 @@ from Botones import *
 
 pygame.init()
 
-
+#ESTE ES UN ENECESARIO
      
 botones_activo = True
 
